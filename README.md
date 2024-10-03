@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -91,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
