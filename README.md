@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
@@ -130,4 +131,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
