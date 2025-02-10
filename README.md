@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 ## Graph
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
