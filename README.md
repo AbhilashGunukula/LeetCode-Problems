@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Sorting
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Two Pointers
@@ -148,4 +152,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
