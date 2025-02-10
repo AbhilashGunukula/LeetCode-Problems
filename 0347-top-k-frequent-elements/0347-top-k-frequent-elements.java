@@ -7,20 +7,28 @@ class Solution {
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
 
-        PriorityQueue<Map.Entry<Integer,Integer>> minHeap = new PriorityQueue<>
-        (Comparator.comparingInt(Map.Entry::getValue));
-
-        for(  Map.Entry<Integer, Integer> entry : map.entrySet()){
-            minHeap.offer(entry);
-            if(minHeap.size() > k) minHeap.poll();
+        List<Integer>[] list = new ArrayList[nums.length + 1];
+        for(int i = 0; i<list.length; i++){
+            list[i] = new ArrayList<>();
         }
+
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+            int frequency = entry.getValue();
+            list[frequency].add(entry.getKey());
+        } 
 
         int[] res = new int[k];
-        for (int i = 0; i < k; i++) {
-            res[i] = Objects.requireNonNull(minHeap.poll()).getKey();
+        int idx = 0;
+        for(int i= list.length-1; i>=0; i--){
+            for(int num: list[i]){
+                res[idx++] = num;
+                if(idx == k){
+                    return res;
+                }
+            }
         }
-        
-        return res;   
+
+        return new int[0];
 
 
         
