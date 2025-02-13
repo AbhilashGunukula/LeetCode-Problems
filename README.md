@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0202-happy-number) |
 ## Trie
 |  |
@@ -171,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
