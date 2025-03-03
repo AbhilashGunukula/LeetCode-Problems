@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0045-jump-game-ii) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
