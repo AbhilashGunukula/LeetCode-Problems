@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1894-merge-strings-alternately](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2580-circular-sentence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3451-string-compression-iii) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
