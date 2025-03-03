@@ -1,28 +1,28 @@
 class Solution {
     public boolean isPalindrome(String s) {
+        int left = 0;
+        int right = s.length() - 1;
 
-        StringBuilder sb = new StringBuilder();
-        s = s.toLowerCase();
-
-        for(int i=0; i<s.length(); i++){
-            char ch = s.charAt(i);
-            if((ch <= 122 && ch >= 97) || (ch <= 90 && ch >= 65 || (ch <= 57 && ch >= 48))){
-                sb.append(ch);
+        while (left < right) {
+            // Skip non-alphanumeric characters from the left
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
             }
+            // Skip non-alphanumeric characters from the right
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            }
+
+            // Compare characters, ignoring case
+            if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
+                return false;
+            }
+
+            // Move towards the center
+            left++;
+            right--;
         }
 
-        int i=0;
-        int j = sb.length() -1;
-
-        while(i<j){
-            char ch1 = sb.charAt(i);
-            char ch2 = sb.charAt(j);
-            if(ch1 != ch2)
-            return false;
-            i++;
-            j--;
-        }
         return true;
-        
     }
 }
