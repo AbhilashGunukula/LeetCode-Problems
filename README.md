@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 ## Counting Sort
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
