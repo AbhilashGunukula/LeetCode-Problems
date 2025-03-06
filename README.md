@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
