@@ -7,7 +7,7 @@ class Solution {
         int right = arr.length - 1;
 
         // Shrink the window size to exactly k elements
-        while (right - left >= k) {
+        while (right - left > k-1) {
             // Compare the distance from 'x' for both ends of the window
             if (Math.abs(arr[left] - x) > Math.abs(arr[right] - x)) {
                 left++;
