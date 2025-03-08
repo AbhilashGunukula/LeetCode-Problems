@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 ## Math
@@ -222,7 +224,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
