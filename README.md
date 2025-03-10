@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
