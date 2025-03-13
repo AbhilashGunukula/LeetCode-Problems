@@ -231,11 +231,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,8 +262,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
