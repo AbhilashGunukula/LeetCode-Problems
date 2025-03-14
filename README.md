@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Simulation
 |  |
 | ------- |
