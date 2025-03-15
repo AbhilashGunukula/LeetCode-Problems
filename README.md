@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Simulation
@@ -275,4 +276,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0937-online-stock-span) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
