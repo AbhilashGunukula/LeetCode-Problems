@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Simulation
 |  |
 | ------- |
