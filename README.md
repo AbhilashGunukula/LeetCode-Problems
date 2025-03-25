@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2058-concatenation-of-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Matrix
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0682-baseball-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
