@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
+| [0304-range-sum-query-2d-immutable](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 ## Math
 |  |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0817-design-hashmap](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Queue
