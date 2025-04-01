@@ -326,12 +326,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 ## Hash Function
 |  |
