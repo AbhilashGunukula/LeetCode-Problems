@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0792-binary-search) |
