@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0547-number-of-provinces) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0155-min-stack) |
@@ -358,9 +360,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
