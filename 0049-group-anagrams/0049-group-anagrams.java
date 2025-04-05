@@ -4,25 +4,22 @@ class Solution {
         HashMap<String, List<String>> memo = new HashMap<>();
 
         for(String str : strs){
-            char[] strToArray = str.toCharArray();
 
-            int[] charCount = new int[26];
-            for(char c : strToArray){
-                charCount[c - 'a']++;
-            }
-            //Arrays.sort(strToArray);
-            //String sortedString = new String(strToArray);
+            char[] charArray = str.toCharArray();
+            Arrays.sort(charArray);
+            String sortedKey = new String(charArray);
 
-            String charCountKey = Arrays.toString(charCount);
-
-            if(!memo.containsKey(charCountKey)){
-                 memo.put(charCountKey, new ArrayList<>());
+            if(!memo.containsKey(sortedKey)){
+                memo.put(sortedKey, new ArrayList<String>());
             }
 
-            memo.get(charCountKey).add(str);
+            memo.get(sortedKey).add(str);
+
+
         }
 
         return new ArrayList<>(memo.values());
+
         
     }
 }
