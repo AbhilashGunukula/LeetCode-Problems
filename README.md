@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,4 +396,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
