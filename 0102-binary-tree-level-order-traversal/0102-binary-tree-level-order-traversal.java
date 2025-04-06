@@ -26,9 +26,10 @@ class Solution {
             int size = q.size();
             List<Integer> innerList = new ArrayList<>();
             for(int i =0; i<size; i++){
-                if(q.peek().left != null) q.offer(q.peek().left);
-                if(q.peek().right != null) q.offer(q.peek().right);
-                innerList.add(q.poll().val);
+                TreeNode node = q.poll();
+                if(node.left != null) q.offer(node.left);
+                if(node.right != null) q.offer(node.right);
+                innerList.add(node.val);
             }
 
             res.add(innerList);
