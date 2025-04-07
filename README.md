@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -397,7 +398,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
