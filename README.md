@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0817-design-hashmap) |
 ## Tree
 |  |
@@ -391,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
