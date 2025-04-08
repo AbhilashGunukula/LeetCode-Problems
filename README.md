@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2058-concatenation-of-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
