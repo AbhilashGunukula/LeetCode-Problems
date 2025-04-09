@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
