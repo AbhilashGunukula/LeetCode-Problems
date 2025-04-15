@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
