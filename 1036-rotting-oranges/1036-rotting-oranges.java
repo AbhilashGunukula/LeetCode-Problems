@@ -46,15 +46,14 @@ class Solution {
             tm = Math.max(tm, time);
 
             q.remove();
-      // exactly 4 neighbours
+
       for (int i = 0; i < 4; i++) {
         int nrow = r + drow[i];
         int ncol = c + dcol[i];
-        // check for valid coordinates and 
-        // then for unvisited fresh orange
+
         if (nrow >= 0 && nrow < rowlen && ncol >= 0 && ncol < collen &&
           vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1) {
-          // push in queue with timer increased
+
           q.add(new Pair(nrow, ncol, time + 1));
           // mark as rotten
           vis[nrow][ncol] = 2;
