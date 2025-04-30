@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0817-design-hashmap) |
 ## Recursion
@@ -502,4 +505,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
