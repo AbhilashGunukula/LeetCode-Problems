@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0753-open-the-lock](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0817-design-hashmap) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0753-open-the-lock](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
