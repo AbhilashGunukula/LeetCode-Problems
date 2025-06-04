@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -544,4 +546,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhi354-beep/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
